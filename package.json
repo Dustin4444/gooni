@@ -15,7 +15,7 @@
     "@changesets/cli": "^2.23.2",
     "@commitlint/cli": "^16.0.0",
     "@commitlint/config-conventional": "^16.0.0",
-    "@nrwl/nx-cloud": "^14.2.0",
+    "@nrwl/nx-cloud": "^16.0.0",
     "@testing-library/dom": "^8.16.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
